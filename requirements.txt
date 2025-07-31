@@ -1,0 +1,21 @@
+# Core data science libraries
+pandas
+numpy
+scikit-learn
+
+# Radar data processing
+pyart-enigma
+
+# AWS data access
+boto3
+
+# Notebook environment
+jupyter
+matplotlib
+seaborn
+
+# For downloading HRRR data (optional but recommended)
+herbie-data
+
+# Model saving/loading
+joblib

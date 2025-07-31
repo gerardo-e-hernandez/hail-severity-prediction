@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files - You typically don't version large data files
+data/raw/
+data/processed/
+data/final/
+
+# Models - Model files can be large
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# IDE and OS specific
+.idea/
+.vscode/
+*.DS_Store
